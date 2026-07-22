@@ -1,6 +1,6 @@
 # CC Marketplace
 
-## Buy CC | Sell CC | CC Market | Darknet CC | Cardy Shop
+## Buy CC | Sell CC | CC Market | Darknet CC | Cardy Shop | OTP
 
 __________________________________________________________________
 
@@ -15,9 +15,6 @@ __________________________________________________________________
 * Telegram Channel: https://t.me/+Owmj_VayvZQyMjc0
 * Jabber: cardy.support@5222.de
 _______________________________________________________________
-
-
-* Cardy OTP Released *
 
 We provide OTP services at very affordable prices.
 You can visit our website to get OTP services from thousands of companies like
